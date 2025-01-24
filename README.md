@@ -1,7 +1,7 @@
 # blockchain-auth-app
 
-Blockchain-Based Authentication System (DApp + Smart Contracts)
-
+**Blockchain-Based Authentication System (DApp + Smart Contracts)
+**
 Tech Stack: Solidity, Ethereum, Web3.js, React, Next.js, IPFS
 Features:
 Decentralized authentication using Ethereum & Smart Contracts
